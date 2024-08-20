@@ -1,0 +1,22 @@
+body{
+    background-color: brown;
+}
+h1{
+    font-family: 'Times New Roman';
+    text-align: center;
+    font-size: 48px;
+    color: rgb(8, 112, 78);
+}
+h2{
+    text-align: center;
+    color: rgb(104, 18, 18);
+    font-size: 29px;
+}
+p{
+    text-align: left;
+    font-size: 24px;
+}
+li{
+    text-align: left;
+    font-family: sans-serif;
+}
