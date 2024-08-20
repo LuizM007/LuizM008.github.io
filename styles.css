@@ -1,5 +1,6 @@
 body{
-    background-color: rgb(172, 93, 93);
+    background-color: rgba(172, 93, 93, 0.705);
+    font-family: 'Times New Roman', Times, serif
 }
 h1{
     font-family: 'Times New Roman';
@@ -9,7 +10,7 @@ h1{
 }
 h2{
     text-align: center;
-    color: rgb(104, 18, 18);
+    color: rgb(60, 104, 18);
     font-size: 29px;
 }
 p{
